@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "334030871343",
+    "firebase_url": "https://wastewraps-default-rtdb.firebaseio.com",
+    "project_id": "wastewraps",
+    "storage_bucket": "wastewraps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334030871343:android:c88186163c126578a15fda",
+        "android_client_info": {
+          "package_name": "com.example.firebasecompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334030871343-n5hpbq6ml2qq9mg5duepqn12n7scnalm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMnGCOoVTIODYtBD5hp0kENngjrQqhdbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334030871343-n5hpbq6ml2qq9mg5duepqn12n7scnalm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334030871343:android:2509f7f9a7bf6021a15fda",
+        "android_client_info": {
+          "package_name": "com.example.sundora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334030871343-n5hpbq6ml2qq9mg5duepqn12n7scnalm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMnGCOoVTIODYtBD5hp0kENngjrQqhdbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334030871343-n5hpbq6ml2qq9mg5duepqn12n7scnalm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334030871343:android:739c98fcb18e43c0a15fda",
+        "android_client_info": {
+          "package_name": "com.webler.wastewraps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334030871343-n5hpbq6ml2qq9mg5duepqn12n7scnalm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMnGCOoVTIODYtBD5hp0kENngjrQqhdbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334030871343-n5hpbq6ml2qq9mg5duepqn12n7scnalm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
